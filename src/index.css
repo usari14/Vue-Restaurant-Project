@@ -1,0 +1,13 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #F1F6F7;
+}
+
+.container{
+    max-width: 1291px;
+    margin: 0 auto;
+}
